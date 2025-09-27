@@ -1,5 +1,5 @@
 /*-------------------- Version 1.00 ------------------------------------//
- A php script to scan your filesystem for changes. Can be useful to discover if a website has been hacked, or searching for viruses. 
+ A php script to scan your filesystem for changes. Can be useful to discover if a website has been hacked or searching for viruses. 
 https://sitescanner.t-qr.com/
 
 GNU General Public License v3.0
